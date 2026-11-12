@@ -231,4 +231,4 @@ Overall, this project strengthens practical knowledge of Python, data analysis, 
 
 **Developed by Yash Beloshe**
 
-*Oasis Infobyte Internship Program – Level 2 | Task 2*
+*Oasis Infobyte Internship Program – Data Analytics*
