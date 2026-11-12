@@ -1,5 +1,5 @@
 # 📊 Exploratory Data Analysis on Retail Sales Data
-
+![Retail Sales EDA Project](task1-thumbnail.png)
 ## 👨‍💻 Project Information
 
 - **Internship:** Oasis Infobyte Internship Program
