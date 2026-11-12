@@ -33,7 +33,6 @@ The project also compares Linear Regression with Ridge and Lasso Regression to u
 |---|---|
 | `House_Price_Prediction.ipynb` | Jupyter Notebook containing the complete analysis and Machine Learning implementation |
 | `README.md` | Project documentation |
-| `requirements.txt` | Required Python libraries |
 | `data/train.csv` | Ames Housing training dataset |
 | `images/price_distribution.png` | Distribution of house prices |
 | `images/correlation_heatmap.png` | Correlation heatmap of selected numerical features |
@@ -171,4 +170,4 @@ Overall, this project strengthens practical knowledge of Python, data analysis, 
 
 **Developed by Yash Beloshe**
 
-*Oasis Infobyte Internship Program – Level 2 | Task 1*
+*Oasis Infobyte Internship Program – Data Analytics*
