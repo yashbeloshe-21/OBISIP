@@ -3,8 +3,9 @@
 ## 👨‍💻 Project Information
 
 - **Internship:** Oasis Infobyte Internship Program
-- **Domain:** Data Science
-- **Task:** Task 1
+- **Domain:** Data Analytics
+- **Level:** 1
+- **Task:** Task 2
 - **Project:** Customer Segmentation Analysis
 - **Author:** Yash Beloshe
 
