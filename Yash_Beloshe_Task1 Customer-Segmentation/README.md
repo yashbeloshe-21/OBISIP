@@ -4,7 +4,7 @@
 
 - **Internship:** Oasis Infobyte Internship Program
 - **Domain:** Data Science
-- **Task:** Task 2
+- **Task:** Task 1
 - **Project:** Customer Segmentation Analysis
 - **Author:** Yash Beloshe
 
@@ -70,20 +70,6 @@ The analysis explores:
 - **Customer Reactivation:** Offer special discounts and promotional campaigns to inactive customers.
 - **Revenue Optimization:** Focus on high-value customer segments to improve business profitability.
 - **Customer Engagement:** Encourage repeat purchases through personalized product recommendations and offers.
-
-## 📊 Project Visualizations
-
-### Elbow Method
-
-
-
-### Customer Cluster Distribution
-
-
-
-### Customer Segmentation
-
-
 
 ## ▶️ How to Run the Project
 
