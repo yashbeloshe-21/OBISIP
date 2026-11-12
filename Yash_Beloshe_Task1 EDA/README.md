@@ -4,6 +4,7 @@
 
 - **Internship:** Oasis Infobyte Internship Program
 - **Domain:** Data Analytics
+- **Level:** 1
 - **Task:** Task 1
 - **Project:** Exploratory Data Analysis on Retail Sales Data
 - **Author:** Yash Beloshe
