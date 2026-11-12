@@ -4,7 +4,7 @@
 
 - **Internship:** Oasis Infobyte Internship Program
 - **Domain:** Data Analytics
-- **Level:** 1
+- **Level:** Level 1
 - **Task:** Task 2
 - **Project:** Customer Segmentation Analysis
 - **Author:** Yash Beloshe
