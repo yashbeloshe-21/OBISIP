@@ -34,11 +34,6 @@ The project also compares Linear Regression with Ridge and Lasso Regression to u
 | `House_Price_Prediction.ipynb` | Jupyter Notebook containing the complete analysis and Machine Learning implementation |
 | `README.md` | Project documentation |
 | `data/train.csv` | Ames Housing training dataset |
-| `images/price_distribution.png` | Distribution of house prices |
-| `images/correlation_heatmap.png` | Correlation heatmap of selected numerical features |
-| `images/actual_vs_predicted.png` | Actual vs. predicted house prices visualization |
-| `images/residual_plot.png` | Residual analysis visualization |
-| `images/model_comparison.png` | Comparison of Linear, Ridge, and Lasso Regression models |
 
 ## 🔍 Analysis Performed
 
